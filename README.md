@@ -1,4 +1,4 @@
 # hello-world
 first git hub
 
-this is my first time on github and i study programming im still nowhere to wrting "REAL CODE" 
+im currently studying c++ and i recently started and i still have a lot to learn any tips?
